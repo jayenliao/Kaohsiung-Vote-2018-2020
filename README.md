@@ -9,16 +9,24 @@
 
 This is a final project presentation for _Data Management_, a course in National Cheng Kung University, Taiwan. In brief, we analyzed three votes in Kaohsiung in 2018-2020. We used map plotting and `shiny` app do demonstrate some finding and visualize data.
 
-### Contents
+### Contents (Please do not move the path of any document or image.)
 
-#### Documents (Please do not move the path of any document or image.)
+#### Code documents 
 
 - `README.md`: This file.
 - `KHvotes_presentation_forMac.Rmd`: The code file of ioslides with shiny web app, markdown, and mathjax (for Mac)
 - `KHvotes_presentation_forWin.Rmd`: The code file of ioslides with shiny web app, markdown, and mathjax (for Windows)
 - `KHvotes.R`: This is the pure R code file writing in the process of analysis. This is not well-organized, thus using above .Rmd files is recommended.
 
-#### Images (Please do not move the path of any document or image.)
+#### Data files
+
+- `data/mapdata202003270418/TOWN_MOI_1090324.shp`: The map file of Taiwan with shapes of cities, counties, and townships
+- `data/Mayor_2018_KH.xls`: The result of Mayor election in Kaohsiung in 2018
+- `data/President_2020_KH.xls`: The subset of Kaohsiung city of the result of Presidential election in Taiwan in 2020
+- `data/Mayor_recall_2020_KH.xlsx`: The result of Mayor recall vote in Kaohsiung in 2020
+- Files in `data/demography`: Demography variables of 38 districts in Kaohsiung City
+
+#### Images
 
 ### Usage
 
