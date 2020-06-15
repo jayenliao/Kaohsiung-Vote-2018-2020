@@ -20,10 +20,6 @@ This is a final project presentation for _Data Management_, a course in National
 
 #### Images (Please do not move the path of any document or image.)
 
-#### Font style file
-
-- `PingFang.ttc`: This is a build-in font style of MacOS. Install it if you want to use it.
-
 ### Usage
 
 #### Directly use
