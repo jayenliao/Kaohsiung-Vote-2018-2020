@@ -7,7 +7,7 @@
 
 ### Description:
 
-This is a final project presentation for _Data Management_, a course in National Cheng Kung University, Taiwan. In brief, we analyzed three votes in Kaohsiung in 2018-2020. We used map plotting and `shiny` app to demonstrate some finding and to visualize data. Cluster analysis and regularized regression were utilized to address further exploration. 
+This is a final project presentation for _Data Management_, a course  National Cheng Kung University, Taiwan. In brief, we analyzed three votes in Kaohsiung in 2018-2020. We used map plotting and `shiny` app to demonstrate some finding and to visualize data. Cluster analysis and regularized regression were utilized to address further exploration. 
 
 ### Contents (Please do not move the path of any document or image.)
 
