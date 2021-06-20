@@ -1,4 +1,4 @@
-# Data Analysis of Three Voting in Kaohsiung in 2018-2020 (Focus on the Approval Rate of Han Kuo-Yu)
+# Data Analysis of Three Votings in Kaohsiung in 2018-2020: Focus on the Approval Rate of Han Kuo-Yu
 ## A final project for Data Management
 
 ### Author:
@@ -40,7 +40,7 @@ Directly open https://jay-chiehen.shinyapps.io/KHvotes_2018-2020_presentation/ t
 
 2. Install all required packages:
 
-```
+```R
 install.packages('shiny')
 install.packages('dplyr')
 install.packages('ggplot2')
